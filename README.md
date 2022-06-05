@@ -1,10 +1,10 @@
 <h3 align="center">Hi 👋 I'm Sławek!</h3>
 
 <h4 align="left">Few words about me:</h4>
-<p>- 🏠 I live in a small city nearby **Wrocław, Poland.**</p>
-<p>- 🌱 I’m currently learning **Java #EverySingleDay.**</p>
-<p>- 🎯 The first goal is to become a **Junior Java Developer.**</p>
-<p>- ⚡ Fun fact **I do collect Absolut Vodka**</p>
+<p>- 🏠 I live in a small city nearby <b>Wrocław, Poland.</b</p>
+  <p>- 🌱 I’m currently learning <b>Java #EverySingleDay.</b></p>
+  <p>- 🎯 The first goal is to become a <b>Junior Java Developer.</b></p>
+  <p>- ⚡ Fun fact I do <b>collect Absolut Vodka</b></p>
 
 <h3 align="left">U can reach me here:</h3>
 <p align="left">
