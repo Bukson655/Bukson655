@@ -1,6 +1,6 @@
 <h3 align="center">Hi 👋 I'm Sławek!</h3>
 
-<h4 align="left">Few words about me:</h4>
+<h3 align="left">Few words about me:</h3>
 <p>- 🏠 I live in a small city nearby <b>Wrocław, Poland.</b></p>
   <p>- 🌱 I’m currently learning <b>Java #EverySingleDay.</b></p>
   <p>- 🎯 The first goal is to become a <b>Junior Java Developer.</b></p>
