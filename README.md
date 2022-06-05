@@ -1,16 +1,13 @@
-### Hi there 👋
+<h3 align="center">Hi 👋 I'm Sławek!</h3>
 
-<!--
-**Bukson655/Bukson655** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align="left">Few words about me:</h4>
+- 🏠 I live in a small city nearby **Wrocław, Poland.**
+- 🌱 I’m currently learning **Java #EverySingleDay.**
+- 🎯 The first goal is to become a **Junior Java Developer.**
+- ⚡ Fun fact **I do collect Absolut Vodka**
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">U can reach me here:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/slawomir-blaszkiewicz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="slawomir-blaszkiewicz" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucdrg_kpl9qm_zkftqbksjha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucdrg_kpl9qm_zkftqbksjha" height="30" width="40" /></a>
+</p>
