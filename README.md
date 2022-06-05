@@ -4,7 +4,7 @@
 <p>- 🏠 I live in a small city nearby <b>Wrocław, Poland.</b></p>
   <p>- 🌱 I’m currently learning <b>Java #EverySingleDay.</b></p>
   <p>- 🎯 The first goal is to become a <b>Junior Java Developer.</b></p>
-  <p>- ⚡ Fun fact I do <b>collect Absolut Vodka</b></p>
+  <p>- ⚡ Fun fact: I'm <b>collecting Absolut Vodka</b></p>
 
 <h3 align="left">U can reach me here:</h3>
 <p align="left">
